@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/web_music/static/css/main.073c9b0a.css",
-    "main.js": "/web_music/static/js/main.d6d0317c.js",
-    "static/js/787.c666adb0.chunk.js": "/web_music/static/js/787.c666adb0.chunk.js",
-    "static/media/logo.svg": "/web_music/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/web_music/index.html",
-    "main.073c9b0a.css.map": "/web_music/static/css/main.073c9b0a.css.map",
-    "main.d6d0317c.js.map": "/web_music/static/js/main.d6d0317c.js.map",
-    "787.c666adb0.chunk.js.map": "/web_music/static/js/787.c666adb0.chunk.js.map"
+    "main.css": "/music_react_app/static/css/main.073c9b0a.css",
+    "main.js": "/music_react_app/static/js/main.d8b39314.js",
+    "static/js/787.c666adb0.chunk.js": "/music_react_app/static/js/787.c666adb0.chunk.js",
+    "static/media/logo.svg": "/music_react_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/music_react_app/index.html",
+    "main.073c9b0a.css.map": "/music_react_app/static/css/main.073c9b0a.css.map",
+    "main.d8b39314.js.map": "/music_react_app/static/js/main.d8b39314.js.map",
+    "787.c666adb0.chunk.js.map": "/music_react_app/static/js/787.c666adb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d6d0317c.js"
+    "static/js/main.d8b39314.js"
   ]
 }
